@@ -1,0 +1,13 @@
+[{
+  "name": "Liz Jewell",
+  "publisher": "Coffee Cup Publishing",
+  "age": 30,
+  "active": false
+},
+{
+  "name": "Bob Smith",
+  "publisher": "Watter Bottle Publishing",
+  "age": 50,
+  "active": true
+}
+]
